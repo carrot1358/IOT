@@ -20,14 +20,14 @@
 #define ADC A0
 
 
-const char* ssid = "APIWAT.SA_2.4GHz";
-const char* password = "1234567890";
+const char* ssid = "_____________";
+const char* password = "____________";
 
 const char* mqtt_server = "broker.netpie.io";
 const int mqtt_port = 1883;
-const char* mqtt_Client = "50b33ad2-17e4-4fca-8a76-edc2e632ad65";
-const char* mqtt_username = "zErYfcxLdfePj5myta2ibBTEeCFzpYrE";
-const char* mqtt_password = "D2G5uugwcNnqSBdGxdKPrz3idLwKrrAg";
+const char* mqtt_Client = "_________________________________";
+const char* mqtt_username = "__________________________________";
+const char* mqtt_password = "________________________________";
 
 const byte LED = D5;
 const byte Buzzer = D8;
